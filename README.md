@@ -7,4 +7,5 @@
 - git add .
 - git commit -m "header section"
 
-- add push
+- git push
+
